@@ -1,18 +1,18 @@
-# 3dpdf-viewer
-3D PDF Viewer with glTf loader
-3D PDF Web Viewer 프로젝트 개요 (README.md)
+# flawless-3d-pdf-viewer
+Flawless 3D-PDF Viewer 프로젝트 개요 (README.md)
 
-# 3D PDF Web Viewer
+# Flawless 3D-PDF Viewer
 
 ## Overview
 
-The 3D PDF Web Viewer is an open-source project aimed at creating a web-based viewer for 3D PDF files. The viewer will enable users to interact with 3D content embedded within PDF files that are in the glTF format. This project leverages Mozilla's PDF.js library for PDF rendering and Three.js's glTF loader for 3D content rendering.
+The Flawless 3D-PDF Viewer is an open-source project aimed at creating a web-based viewer for 3D PDF files. The viewer will enable users to interact with 3D content embedded within PDF files that are in the glTF format. This project leverages Mozilla's PDF.js library for PDF rendering and Three.js's glTF loader for 3D content rendering.
 
 The primary goal of this project is to enhance the capabilities of Mozilla PDF.js to include the rendering and interactive manipulation of 3D content within PDF files. In addition to the basic PDF.js features, the viewer will enable the activation of 3D tools when 3D content is detected, allowing users to control and manipulate 3D models.
 
+
 ## Features
 
-The 3D PDF Web Viewer aims to provide the following key features:
+The Flawless 3D-PDF Viewer aims to provide the following key features:
 
 1. **3D Content Rendering**: The viewer will be able to render 3D content embedded in PDF files in the glTF format using Three.js.
 
@@ -52,4 +52,4 @@ This project is licensed under the [MIT License](LICENSE), which means it is ope
 
 For questions, suggestions, or collaboration opportunities, please feel free to contact the project maintainers through the GitHub repository.
 
-Thank you for your interest in the 3D PDF Web Viewer project! We look forward to working together to create a powerful and versatile 3D PDF viewing solution.
+Thank you for your interest in the Flawless 3D-PDF Viewer project! We look forward to working together to create a powerful and versatile 3D PDF viewing experience.
